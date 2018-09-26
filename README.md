@@ -5,6 +5,7 @@ You will need to download, unpack, and copy [Font-Awesome](https://fontawesome.c
 * Navigation Bar
 * Responsive
 * Footer with copyright
+* Scroll under Navbar
 ### Home Page Features
 * Main Section
 * Subscribe to newsletter 
