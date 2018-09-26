@@ -1,5 +1,6 @@
-# 3-page-website-template
-## Includes
+# 3-Page-Website-Template
+You will need to download, unpack, and copy [Font-Awesome](https://fontawesome.com/v4.7.0/get-started/) into the css folder. 
+
 ### Universal Features
 * Navigation Bar
 * Responsive
