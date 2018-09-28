@@ -1,4 +1,4 @@
-# 3-Page-Website-Template
+# For: [Vera Butler Design](VeraButlerDesign.com)
 You will need to download, unpack, and copy [Font-Awesome](https://fontawesome.com/v4.7.0/get-started/) into the css folder. 
 
 ### Universal Features
@@ -13,8 +13,11 @@ You will need to download, unpack, and copy [Font-Awesome](https://fontawesome.c
 ### About Page Features
 * Main Section
 * Aside
-### Services Page Features
+### Portfolio Page Features
 * Boxes Title
 * 3 Boxes that stack on smaller screens
 * Contact Form 
+### Blog Page Features
+* Above and Below the fold loading (in development)
+* Suscribe to Newsletter
 
